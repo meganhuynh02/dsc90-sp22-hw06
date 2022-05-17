@@ -12,5 +12,5 @@ Homework 6 for History of Data Science, Spring 2022 @ UC San Diego.
 <p>Displays child heights vs their parents' heights.</p>
 
 <h2>Question 3:</h2>
-<iframe src='./france-fig (1).html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='./france-fig (2).html' width=800 height=600 frameBorder=0></iframe>
 <p>Displays the population within different departments in France.</p>
